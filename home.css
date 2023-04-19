@@ -10,7 +10,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-end;
-  background-image: url("public/playground_assets/rectangle%2035-1500w.png");
+  background-image: url("public/playground_assets/yyy.jpg");
 }
 .card-info {
   flex: 0 0 auto;
@@ -39,11 +39,11 @@
 
 .card-root-class-name1 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B2%5D-200h.png");
+  background-image: url("public/playground_assets/syna544.avif");
 }
 .card-root-class-name2 {
   background-size: cover;
-  background-image: url("public/playground_assets/rectangle%2035%20%5B1%5D-200h.png");
+  background-image: url("public/playground_assets/synacustom1.jpg");
 }
 @media(max-width: 767px) {
   .card-card {
@@ -277,7 +277,7 @@
   align-items: stretch;
 }
 .home-image5 {
-  width: 50%;
+  width: 40%;
 }
 .home-hero-image3 {
   width: 100%;
